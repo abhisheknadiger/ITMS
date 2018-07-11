@@ -3,7 +3,7 @@
 #include<opencv2/imgproc/imgproc.hpp>
 #include<iostream>
 #include<fstream>
-#include"code.h"
+#include"algo.h"
 #include"cvclass.h"
 using namespace cv;
 
