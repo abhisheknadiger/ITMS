@@ -7,7 +7,7 @@
 #include"cvclass.h"
 using namespace cv;
 
-const Scalar SCALAR_GREEN = Scalar(0.0, 200.0, 0.0);
+const Scalar SCALAR_GREEN = Scalar(0.0, 255.0, 0.0);
 const Scalar SCALAR_RED = Scalar(0.0, 0.0, 255.0);
 const Scalar SCALAR_BLACK = Scalar(0.0, 0.0, 0.0);
 const Scalar SCALAR_WHITE = Scalar(255.0, 255.0, 255.0);
